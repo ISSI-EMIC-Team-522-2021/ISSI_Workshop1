@@ -35,7 +35,7 @@ Wants this to be catchy -
 
 
 ## What_are_EMIC_waves
-**Lead author:** 
+**Lead author:** Alexa 
 
 **Additional Authors:**
 
@@ -45,6 +45,15 @@ Wants this to be catchy -
 * Generation Theory 
 * Intitial Observations 
 * Propagation of EMIC waves 
+
+Add in and perhaps remove or move to other sections later. 
+
+Add in how to go from three vector magnetic and electric field to spectrogram to idenfication of waves (Ben and Dan and Dedong and Claudia all agreed to help willingly.) 
+* issues with data collection/data cleaning 
+* identification of poynting flux 
+* in identification plus and minuses to identifing by eye vs ML
+* Maybe hit on why different orbits have different issues with detection (moving to fast, to low frequency hard to identify etc.) 
+
 
 ## Observations
 **Lead author:** 
@@ -57,9 +66,16 @@ Wants this to be catchy -
 * Geomagnetic distribution
   - **Lead author:** Lauren Blum
   - **Additional Authors:** Dedong Wang
+
+hint at storm dependance 
+
+Maybe include the cartoon of the distribution at least from an all time approach and then each of the other 
+
 * Cold plasma density and EMIC waves
   - **Lead author:** Philip Fernandes
   - **Additional Authors:** Dedong Wang 
+
+
 * Effects of warm ion composition on EMIC waves
   - **Lead author:** Philip Fernandes
   - **Additional Authors:** Dedong Wang 
