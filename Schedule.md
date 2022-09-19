@@ -27,6 +27,7 @@ Reminder of best practices/writing guide/etc
 3:00 – 3:30 Tea break/Networking/Brain break 
 
 3:30 – 4:00 Second batch of topic updates 
+
  		Observational Characteristics of EMIC waves - 
 
 4:30 – 5:00 quick look at updating week’s activities – set stage for rest of week’s work. 
