@@ -12,11 +12,12 @@ Layout of town etc.
 Reminder of best practices/writing guide/etc 
 
 10:30 - 11:15 Introduction and creation of GIT organizaiton for the team. 
-
+- Email Remya with your github user name to be added. 
+- Link to the notes can be found at [here](https://github.com/ISSI-EMIC-Team-522-2021/ISSI_Workshop1/blob/14232c0ddc5369f1cacbe7d59043421004553435/Day_Overview_notes.md)
 
 11:30 – 12:30 Introduction for the work week and quick look/update on week’s activities 
 
-12:30 – 1:30 Lunch 
+12:30 – 1:30 Lunch  - Ethiopian 
 
 1:30 – 3:00 First batch of topic updates 
 
