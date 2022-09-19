@@ -188,6 +188,7 @@ Past review in addition to those already there.
 - Future missions
   + Upcoming missions
   + Need for new mission ideas 
+  + Other planets [Mauk's paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
   
 - Future therory 
 
