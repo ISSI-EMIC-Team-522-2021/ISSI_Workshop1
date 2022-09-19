@@ -5,3 +5,5 @@
   - charge of solar wind oxygen 
   - Are they large enough compositions to matter? 
   - How is this different at Jupiter and other locations. 
+
+[Mauk's paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
