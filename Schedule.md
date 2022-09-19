@@ -1,18 +1,22 @@
-#Meeting Agenda
+# Meeting Agenda
 
-##Sunday: 
+## Sunday: 
 Ice Breaker/Dinner/Introductions for all at location (all other teams and ISSI Personal are welcome to attend)  This will be at a location TBD in town. 
 
-##Monday: 
+## Monday: 
 8:00 – Breakfast
 9:30 – 10:20 Welcome to In Person Meeting 
 
 Introductions
 Layout of town etc. 
-Reminder of best practices/writing guide/etc
-10:30 – 11:30 Introduction for the work week and quick look/update on week’s activities 
+Reminder of best practices/writing guide/etc 
 
-11:30 – 1:00 Lunch 
+10:30 - 11:15 Introduction and creation of GIT organizaiton for the team. 
+
+
+11:30 – 12:30 Introduction for the work week and quick look/update on week’s activities 
+
+12:30 – 1:30 Lunch 
 
 1:00 – 2:30 First batch of topic updates 
 
@@ -22,7 +26,7 @@ Reminder of best practices/writing guide/etc
 
 4:30 – 5:00 quick look at updating week’s activities – set stage for rest of week’s work. 
 
-##Tuesday: 
+## Tuesday: 
 8:00 – Breakfast/networking/get to know your team
 
 9:00 – 9:15 Good morning and identify topic teams to work on draft (identify all topics for that day) 
@@ -39,7 +43,7 @@ Reminder of best practices/writing guide/etc
 
 6:00 ISSI Dinner for all at location (all other teams and ISSI Personal will be invited to attend) 
 
-##Wednesday: 
+## Wednesday: 
 8:00 – Breakfast/networking/get to know your team
 
 9:00 – 9:15 Good morning and identify topic teams to work on draft
@@ -52,7 +56,7 @@ Reminder of best practices/writing guide/etc
 
 1:15 – 5:00 New Collaboration time! Open discussion – Identification of new studies needed based on missing information in topics. 
 
-##Thursday: 
+## Thursday: 
 8:00 – Breakfast/networking/get to know your team
 
 9:00 – 9:15 Good morning and identify topic teams to work on draft
@@ -65,7 +69,7 @@ Reminder of best practices/writing guide/etc
 
 1:15 – 5:00 New Collaboration time! Open discussion – Identification of new studies needed based on missing information in topics. 
 
-##Friday: 
+## Friday: 
 8:00 – Breakfast/networking/get to know your team
 
 9:00 – 10:20 Review what we’ve accomplished
@@ -86,7 +90,7 @@ Reminder of best practices/writing guide/etc
 
 6:00 –  Team Dinner
 
-##Saturday: 
+## Saturday: 
 Bon Voyage 
 
 
