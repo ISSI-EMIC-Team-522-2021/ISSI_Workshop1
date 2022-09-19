@@ -12,6 +12,19 @@ Go through topics from large review paper and present the different discussions.
 
 **Topics to cover**
 
+Wants this to be catchy 
+
+Past review in addition to those already there. 
+
+[Usanova's paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119055006.ch5) from [this book](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119055006)
+
+[Usanova's frontier's paper](https://www.frontiersin.org/articles/10.3389/fspas.2021.744344/full)
+
+[Lee's paper](https://www.frontiersin.org/articles/10.3389/fspas.2021.719715/full)
+
+
+
+
 ## What_are_EMIC_waves
 **Lead author:** 
 
@@ -41,6 +54,9 @@ Go through topics from large review paper and present the different discussions.
 * Effects of warm ion composition on EMIC waves
   - **Lead author:** Philip Fernandes
   - **Additional Authors:** Dedong Wang 
+[Mauk paper on other planets](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
+ 
+
 * Ring current and EMIC waves
   - **Lead author:** Vania Jordanova 
   - **Additional Authors:** Philip Fernandes
