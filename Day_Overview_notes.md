@@ -12,7 +12,11 @@ Go through topics from large review paper and present the different discussions.
 
 **Topics to cover**
 
-Wants this to be catchy 
+Wants this to be catchy - 
+
+* Why do we want to study these waves
+* What previous review papers have there been
+* What's different from ours
 
 Past review in addition to those already there. 
 
@@ -21,6 +25,7 @@ Past review in addition to those already there.
 [Usanova's frontier's paper](https://www.frontiersin.org/articles/10.3389/fspas.2021.744344/full)
 
 [Lee's paper](https://www.frontiersin.org/articles/10.3389/fspas.2021.719715/full)
+
 
 
 
