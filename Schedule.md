@@ -1,7 +1,9 @@
 # Meeting Agenda
 
 ## Sunday: 
-Ice Breaker/Dinner/Introductions for all at location (all other teams and ISSI Personal are welcome to attend)  This will be at a location TBD in town. 
+~~Ice Breaker/Dinner/Introductions for all at location (all other teams and ISSI Personal are welcome to attend)  This will be at a location TBD in town. ~~
+
+Recover from Jet leg hopefully! 
 
 ## Monday: 
 8:00 – Breakfast
