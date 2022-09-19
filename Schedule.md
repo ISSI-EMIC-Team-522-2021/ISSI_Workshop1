@@ -20,13 +20,14 @@ Reminder of best practices/writing guide/etc
 
 1:30 – 3:00 First batch of topic updates 
 
-		1:30 - 2:00 - Introduction - Remya Bhanu
-		2:00 - 2:30 - What are EMIC waves? - Alexa Halford
-		2:30 - 3:00 - Observational Characteristics of EMIC waves - 
+		1:30 - 2:00 - Read through the draft
+		2:00 - 2:30 - Introduction - Remya Bhanu
+		2:30 - 3:00 - What are EMIC waves? - Alexa Halford
 
-2:30 – 3:00 Tea break/Networking/Brain break 
+3:00 – 3:30 Tea break/Networking/Brain break 
 
-3:00 – 4:30 Second batch of topic updates 
+3:30 – 4:00 Second batch of topic updates 
+ 		Observational Characteristics of EMIC waves - 
 
 4:30 – 5:00 quick look at updating week’s activities – set stage for rest of week’s work. 
 
