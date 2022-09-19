@@ -15,19 +15,23 @@ Go through topics from large review paper and present the different discussions.
 Wants this to be catchy - 
 
 * Why do we want to study these waves
+  - Need to better understand their relative impact
+    + e.g. their impact on atmospheric chemistry 
+    + Potential for pockets of increase radiation at aviation altitudes etc. 
+  - include them better in models
+    + Need to include non-linear effects to get better model results
+  - see them around other planetary bodies
+  - differnet way to detect them with data  -> pointing towards the cool things in the paper 
 * What previous review papers have there been
 * What's different from ours
 
-Past review in addition to those already there. 
+### Past review in addition to those already there. 
 
 [Usanova's paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119055006.ch5) from [this book](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119055006)
 
 [Usanova's frontier's paper](https://www.frontiersin.org/articles/10.3389/fspas.2021.744344/full)
 
 [Lee's paper](https://www.frontiersin.org/articles/10.3389/fspas.2021.719715/full)
-
-
-
 
 
 ## What_are_EMIC_waves
