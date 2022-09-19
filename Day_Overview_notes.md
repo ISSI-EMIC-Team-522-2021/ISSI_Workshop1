@@ -1,4 +1,4 @@
-# Notes from Day 1 
+# Notes on Discussion 
 
 Go through topics from large review paper and present the different discussions. 
 
@@ -66,6 +66,8 @@ Add in how to go from three vector magnetic and electric field to spectrogram to
 * Geomagnetic distribution
   - **Lead author:** Lauren Blum
   - **Additional Authors:** Dedong Wang
+
+Could mention ground - but perhaps to only mention the distribution and that they propagate through the ionosphere.
 
 hint at storm dependance 
 
