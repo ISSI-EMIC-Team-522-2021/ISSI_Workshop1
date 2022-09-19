@@ -1,4 +1,4 @@
-# Notes on Discussion 
+# Notes on Overleaf version of the paper. 
 
 Go through topics from large review paper and present the different discussions. 
 
