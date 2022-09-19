@@ -9,6 +9,7 @@ Go through topics from large review paper and present the different discussions.
 **Additional Authors:** Alexa Halford, David Sibeck 
 
 **Reviewer:** David Sibeck, Ioannis A. Daglis 
+
 **Topics to cover**
 
 ## What_are_EMIC_waves
