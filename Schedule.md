@@ -21,34 +21,38 @@ Reminder of best practices/writing guide/etc
 
 12:30 – 1:30 Lunch  - Ethiopian 
 
-1:30 – 3:00 First batch of topic updates 
+1:30 – ~~3:00~~  First batch of topic updates 
+* 1:30 - ~~2:00~~ 3:00 - Read through the draft
+* ~~2:00 - 2:30~~ ~ 3:30- 4:10  - Introduction - Remya Bhanu
+* ~~2:30 - 3:00~~ 4:10 - 4:30 - What are EMIC waves? - Alexa Halford
 
-		1:30 - 2:00 - Read through the draft
-		2:00 - 2:30 - Introduction - Remya Bhanu
-		2:30 - 3:00 - What are EMIC waves? - Alexa Halford
+~~3:00 – 3:30 Tea break/Networking/Brain break ~~
 
-3:00 – 3:30 Tea break/Networking/Brain break 
+~~3:30 – 4:00 Second batch of topic updates ~~
 
-3:30 – 4:00 Second batch of topic updates 
+* Observational Characteristics of EMIC waves
+	- Geomagnetic distribution 
 
- 		Observational Characteristics of EMIC waves - 
+Could mention ground - but perhaps to only mention the distribution and that they propagate through the ionosphere. 
+		
 
-4:30 – 5:00 quick look at updating week’s activities – set stage for rest of week’s work. 
+~~4:30 – 5:00 quick look at updating week’s activities – set stage for rest of week’s work. ~~
+
 
 ## Tuesday: 
 8:00 – Breakfast/networking/get to know your team
 
 9:00 – 9:15 Good morning and identify topic teams to work on draft (identify all topics for that day) 
 
-9:15 – 11:30 Topic breakouts 
+9:15 – 11:30 writing and collabroation discussion 
 
 11:30 – 1:00 Lunch
 
-1:00 – 1:15 Good afternoon and identify topic teams to work on draft (if teams wanted to meet/work in town or elsewhere they could) 
+1:00 – 1:45 Continutation on review of overleaf sections. 
 
-1:15 – 4:45 Topic breakouts 
+1:15 – 5:00 Topic breakouts 
 
-5:00 – 5:30 Everyone back in room at ISSI to present one slide update on day’s work from each topic. 
+~~5:00 – 5:30 Everyone back in room at ISSI to present one slide update on day’s work from each topic.~~
 
 6:00 ISSI Dinner for all at location (all other teams and ISSI Personal will be invited to attend) 
 
