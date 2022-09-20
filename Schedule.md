@@ -42,13 +42,13 @@ Could mention ground - but perhaps to only mention the distribution and that the
 ## Tuesday: 
 8:00 – Breakfast/networking/get to know your team
 
-9:00 – 9:15 Good morning and identify topic teams to work on draft (identify all topics for that day) 
+~~9:00 – 9:15 Good morning and identify topic teams to work on draft (identify all topics for that day)~~ 
 
-9:15 – 11:30 writing and collabroation discussion 
+9:15 – ~~11:30~~ 12:30 writing and collabroation discussion - Check out the collaboration time 
 
-11:30 – 1:00 Lunch
+~~11:30 – 1:00~~ 12:30 - 2:00 Lunch
 
-1:00 – 1:45 Continutation on review of overleaf sections. 
+~~1:00 – 1:45~~ 2:00 - ? Continutation on review of overleaf sections. 
 
 1:15 – 5:00 Topic breakouts 
 
@@ -59,15 +59,16 @@ Could mention ground - but perhaps to only mention the distribution and that the
 ## Wednesday: 
 8:00 – Breakfast/networking/get to know your team
 
-9:00 – 9:15 Good morning and identify topic teams to work on draft
+9:00 – 9:15 Good morning ~~and identify topic teams to work on draft~~
 
-9:15 – 11:30 Topic breakouts 
+9:15 – 11:30 ~~Topic breakouts~~ Disscussions yet to be haved
+* Modeling of the effects of EMIC waves (Yuri should be able to join. 
 
 11:30 – 1:00 Lunch
 
 1:00 – 1:15 Good afternoon 
 
-1:15 – 5:00 New Collaboration time! Open discussion – Identification of new studies needed based on missing information in topics. 
+1:15 – 5:00 New Collaboration time! Open discussion – Identification of new studies needed based on missing information in topics. Possibly discussion around town. 
 
 ## Thursday: 
 8:00 – Breakfast/networking/get to know your team
