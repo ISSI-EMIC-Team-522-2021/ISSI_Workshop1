@@ -55,6 +55,12 @@ Add in how to go from three vector magnetic and electric field to spectrogram to
 * Maybe hit on why different orbits have different issues with detection (moving to fast, to low frequency hard to identify etc.) 
 
 
+Add in nonlinear wave generation stuff 
+Phase bunching/ trapping proton holes etc. 
+[Miyoshi](https://www.nature.com/articles/s41598-021-92541-0)
+
+Potentially mode conversion although that's also down below. 
+
 ## Observations
 **Lead author:** 
 
