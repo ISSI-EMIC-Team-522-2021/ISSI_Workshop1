@@ -81,7 +81,8 @@ Could mention ground - but perhaps to only mention the distribution and that the
 
 1:00 – 1:15 Good afternoon 
 
-1:15 – 5:00 New Collaboration time! Open discussion – Identification of new studies needed based on missing information in topics. 
+1:15 – 5:00 Continuation of topics 
+EMIC wave relationship with other magnetospheric boundaries - Lauren can hopefully join. 
 
 ## Friday: 
 8:00 – Breakfast/networking/get to know your team
