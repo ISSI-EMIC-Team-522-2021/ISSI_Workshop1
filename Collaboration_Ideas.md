@@ -35,3 +35,12 @@ How much difference is because of orbit vs solar cycle.
 ## Compare local/bounced averaged diffusion coeffients with EMIC location and plasma pause/plume conditions. 
 
 How well do waves in different locations interact with relativitistic particles (if they are there - first assume the particles are there - then look to see if they are. So if there were MeV elctrons at L=9 MLT = noon would the wave be effective => state how they might not be due to lack of those MeV particles in that location). 
+
+
+## September 13th - 14th 2015 
+Wide L-value range where EMIC waves were observed (~L=3 to ~L=10)
+
+* Can we see poynting flux 
+* Can we see E-field 
+* Can we see composition
+* Why so quiet so what made this thing turn on? 
