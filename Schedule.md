@@ -61,7 +61,7 @@ Could mention ground - but perhaps to only mention the distribution and that the
 
 9:00 – 9:15 Good morning and determine new reasturant options.  ~~and identify topic teams to work on draft~~
 
-9:15 – 11:00 ~~11:30~~ ~~Topic breakouts~~ Disscussions yet to be haved
+9:15 – 11:00 ~~11:30~~ ~~Topic breakouts~~ Disscussions of collaboration projects and writting. 
 
 11:00 - 1:00 Yuri will talk about events. 
 
