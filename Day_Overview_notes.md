@@ -61,7 +61,7 @@ Phase bunching/ trapping proton holes etc.
 
 Potentially mode conversion although that's also down below. 
 
-## Observations
+## Observations - focus on the generation of EMIC Waves 
 **Lead author:** 
 
 **Additional Authors:**
@@ -130,7 +130,7 @@ and H. Spence, p. 85, AGU, Washington, D. C.
 * What do we mean when we say "warm plasma". 
   - How do we measure warm plasma 1eV (from Vania)
 
-### Ring current and EMIC waves
+### Ring current and EMIC waves - focus on generatin of waves (below cover loss/decay of ring current from wave particle interactions) 
   - **Lead author:** Vania Jordanova 
   - **Additional Authors:** Philip Fernandes
 
@@ -155,11 +155,6 @@ Magnetosonic
 
 Add in others as in list them so someone could do a literature search  - maybe more detail about magnetosonic and/or lightning. 
 
-### Ion outflow distribution impacts
-  - **Lead author:** Alexa Halford
-  - **Additional Authors:** 
-
-I will take references please 
 
 ### Quiet Time Observations
   - **Lead author:** Remya Bhanu
@@ -183,7 +178,7 @@ Storm time, phases, and activity indices - how do they differ etc.
 
 references please. 
 
-## Wave_particle_interactions
+## Wave_particle_interactions leading to loss. 
 **Lead author:** 
 
 **Additional Authors:**
@@ -195,28 +190,86 @@ references please.
   - **Lead author:** Vania Jordanova
   - **Additional Authors:**
   - **Reviewer:** 
+
+Add in the Diffusion coeffients (quasilinear stuff) 
+
+Please help with references
+
 ### Observational Evidence	
   - Cyclotron Resonance: Ions
     + **Lead author:** Yoshizumi Miyoshi
     + **Additional Authors:** Dedong Wang
     + **Reviewer:** 
+    
+    MMS studies 
+    
+    Maria's IMAGE and ground waves - Mike's 
+    
   - Cyclotron Resonance: Electrons
     + **Lead author:** Yoshizumi Miyoshi
     + **Additional Authors:** Dedong Wang
     + **Reviewer:** 
+    
+    Linear and non-linear interactions. 
+
+BARREL studies with EMIC waves 
+
+Alexa thinks there might be Riometer studies? 
+
+Maria Usanova GRL on narrowing of the Pitch angle distribution with respect to energy and EMIC wave observation. 
+
+Dips in phase space density. 
+
+(Lidia Bingly's paper)[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JA026292]
+ 
+ Non-linear (here or below?) 
+* Microbursts potential signature of non-linear wave interactins. (remember Alexa EMIC not Chorus)
+* Shumko's paper. 
+* Miyoshi et al 2008. 
+
+
+    
   - Impact of precipitation and follow on effects
     + **Lead author:** Dedong Wang
     + **Additional Authors:** Dedong Wang
     + **Reviewer:** 
+Ionosphere conductivity 
+
+Ionospheric D & E region enhancements. 
+
+Atmospheric chemistry/ozone impact (potential impacts on climate/circulation?) 
+
+Radiation at aviation altitudes
+
+Ion outflow distribution impacts (Does this go here? Where does this go)
+      ++ **Lead author:** Alexa Halford
+      ++ **Additional Authors:** 
+
   - Impact on Trapped Radiation Belt Population
     + **Lead author:** Dedong Wang 
     + **Additional Authors:**
     + **Reviewer:** 
+
+
+### Ion outflow distribution impacts (Does this go here? Where does this go)
+  - **Lead author:** Alexa Halford
+  - **Additional Authors:** 
+
+I will take references please 
+
 ### Nonlinear Interactions with EMIC waves	
   - Landau resonance and heating
     + **Lead author:** Mykhaylo Shumko
     + **Additional Authors:**
     + **Reviewer:** 
+    
+MMS - studies might have some obseravational evidence for these. 
+
+    Non-linear 
+    Microbursts potential signature of non-linear wave interactins. (remember Alexa EMIC not Chorus)
+    Shumko's paper. 
+    Miyoshi et al 2008. 
+    
   - EMIC triggered emissions
     + **Lead author:** Benjamin Grison 
     + **Additional Authors:** Dedong Wang
