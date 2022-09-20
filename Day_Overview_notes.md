@@ -77,6 +77,7 @@ Maybe include the cartoon of the distribution at least from an all time approach
   - **Lead author:** Philip Fernandes
   - **Additional Authors:** Dedong Wang 
 
+Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020338) 
 
 * Effects of warm ion composition on EMIC waves
   - **Lead author:** Philip Fernandes
