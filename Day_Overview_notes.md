@@ -143,6 +143,9 @@ and H. Spence, p. 85, AGU, Washington, D. C.
 Ligtning 
 
 Magnetosonic 
+[Min](https://www.sciencedirect.com/science/article/pii/S0273117721006116?via%3Dihub)
+[Miyoshi](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL083024)
+[Asamura](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.245101)
 
 Add in others as in list them so someone could do a literature search  - maybe more detail about magnetosonic and/or lightning. 
 
@@ -165,9 +168,14 @@ Maybe combine with above.
 ### Storm Time Observations
   - **Lead author:** Remya Hhanu
   - **Additional Authors:** Alexa Halford Dedong Wang
+
+Storm time, phases, and activity indices - how do they differ etc. 
+
 ### Substorm Observations
   - **Lead author:** Remya Bhanu
   - **Additional Authors:** Lauren Blum, Dedong Wang
+
+references please. 
 
 ## Wave_particle_interactions
 **Lead author:** 
