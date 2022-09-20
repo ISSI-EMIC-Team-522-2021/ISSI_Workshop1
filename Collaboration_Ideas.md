@@ -12,6 +12,8 @@ From Van Allen Probes era.
 
 Perhaps see if we can compare different identification methods 
 
+Compare Andy, Remya, Claudia, and maybe Sigsbee (we need to ask her but they may already be doing this - so either hurry up or wait for their result). 
+
 ## Compare stats from Van Allen, Arase, and CRRES 
 
 How much difference is because of orbit vs solar cycle. 
