@@ -88,7 +88,7 @@ Compare different statistical studies from the different missions
 #### What Phill would like is what are the important question that should be asked/addressed here. 
 
 * What do we mean when we say "cold plasma". 
-  - How do we measure cold plasma
+  - How do we measure cold plasma 1eV (from Vania)
 * Why do we care about the cold plasma. 1 sentence or so
   - plays a role EMIC growth and resonance
   - in modeling/ray tracing codes they need negative gradients. 
@@ -119,11 +119,16 @@ and H. Spence, p. 85, AGU, Washington, D. C.
   - **Additional Authors:** Dedong Wang 
 [Mauk paper on other planets](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
  
+100eV (from Vania)
 
+* What do we mean when we say "warm plasma". 
+  - How do we measure warm plasma 1eV (from Vania)
 
 ### Ring current and EMIC waves
   - **Lead author:** Vania Jordanova 
   - **Additional Authors:** Philip Fernandes
+
+1 keV (from Vania)
 
 [Shumko Proton Aurora](https://www.frontiersin.org/articles/10.3389/fspas.2022.975123/full)
 
@@ -135,15 +140,28 @@ and H. Spence, p. 85, AGU, Washington, D. C.
   - **Lead author:** Yoshizumi Miyoshi
   - **Additional Authors:** 
 
+Ligtning 
+
+Magnetosonic 
+
+Add in others as in list them so someone could do a literature search  - maybe more detail about magnetosonic and/or lightning. 
+
 ### Ion outflow distribution impacts
   - **Lead author:** Alexa Halford
   - **Additional Authors:** 
+
+I will take references please 
+
 ### Quiet Time Observations
   - **Lead author:** Remya Bhanu
   - **Additional Authors:** Lauren Blum, Dedong Wang 
+No storm and no substorm - seem to be presure pulse driven Maybe combine with below. 
+
 ### Impact of SW Dynamics Pressure on EMIC generation
   - **Lead author:** Alexa Halford
   - **Additional Authors:** Remya Bhanu, Lauren Blum
+Maybe combine with above. 
+
 ### Storm Time Observations
   - **Lead author:** Remya Hhanu
   - **Additional Authors:** Alexa Halford Dedong Wang
