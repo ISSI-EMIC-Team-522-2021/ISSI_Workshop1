@@ -241,14 +241,18 @@ Atmospheric chemistry/ozone impact (potential impacts on climate/circulation?)
 
 Radiation at aviation altitudes
 
-Ion outflow distribution impacts (Does this go here? Where does this go)
-      ++ **Lead author:** Alexa Halford
+Sudden stratospheric warmings? 
+
+Ion outflow distribution impacts (Does this go here? Where does this go) -Alexa Halford will help write 
       ++ **Additional Authors:** 
 
   - Impact on Trapped Radiation Belt Population
     + **Lead author:** Dedong Wang 
     + **Additional Authors:**
     + **Reviewer:** 
+    
+Talk about the change in the pitch angle distribution.  
+Talk about potential combined effect of EMIC with HISS or Chorus waves.  - Maybe this goes in modeling more? 
 
 
 ### Ion outflow distribution impacts (Does this go here? Where does this go)
