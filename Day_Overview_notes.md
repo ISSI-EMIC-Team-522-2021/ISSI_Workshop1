@@ -216,7 +216,7 @@ BARREL studies with EMIC waves
 
 Alexa thinks there might be Riometer studies? 
 
-Maria Usanova GRL on narrowing of the Pitch angle distribution with respect to energy and EMIC wave observation. 
+(Maria Usanova GRL on narrowing of the Pitch angle distribution with respect to energy and EMIC wave observation.)[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013GL059024]
 
 Dips in phase space density. 
 
@@ -226,7 +226,6 @@ Dips in phase space density.
 * Microbursts potential signature of non-linear wave interactins. (remember Alexa EMIC not Chorus)
 * Shumko's paper. 
 * Miyoshi et al 2008. 
-
 
     
   - Impact of precipitation and follow on effects
