@@ -73,40 +73,51 @@ hint at storm dependance
 
 Maybe include the cartoon of the distribution at least from an all time approach and then each of the other 
 
-* Cold plasma density and EMIC waves
+
+Compare different Van Allen Probes Statistical studies. 
+* How much do they agree or disagree. 
+
+Compare different statistical studies from the different missions 
+ * THEMIS, CLUSTER, CREES, AMPTE, Arase, Van Allen Probes, Akabono, MMS, GEOS, GOES, etc. 
+
+### Cold plasma density and EMIC waves
   - **Lead author:** Philip Fernandes
   - **Additional Authors:** Dedong Wang 
 
 Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020338) 
 
-* Effects of warm ion composition on EMIC waves
+### Effects of warm ion composition on EMIC waves
   - **Lead author:** Philip Fernandes
   - **Additional Authors:** Dedong Wang 
 [Mauk paper on other planets](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
  
 
-* Ring current and EMIC waves
+
+### Ring current and EMIC waves
   - **Lead author:** Vania Jordanova 
   - **Additional Authors:** Philip Fernandes
-* EMIC wave relationship with other magnetospheric boundaries
+
+### EMIC wave relationship with other magnetospheric boundaries
   - **Lead author:** Lauren Blum
   - **Additional Authors:** Benjamin Grison, Alexa Halford
-* Mode conversion of EMIC waves
+
+### Mode conversion of EMIC waves
   - **Lead author:** Yoshizumi Miyoshi
   - **Additional Authors:** 
-* Ion outflow distribution impacts
+
+### Ion outflow distribution impacts
   - **Lead author:** Alexa Halford
   - **Additional Authors:** 
-* Quiet Time Observations
+### Quiet Time Observations
   - **Lead author:** Remya Bhanu
   - **Additional Authors:** Lauren Blum, Dedong Wang 
-* Impact of SW Dynamics Pressure on EMIC generation
+### Impact of SW Dynamics Pressure on EMIC generation
   - **Lead author:** Alexa Halford
   - **Additional Authors:** Remya Bhanu, Lauren Blum
-* Storm Time Observations
+### Storm Time Observations
   - **Lead author:** Remya Hhanu
   - **Additional Authors:** Alexa Halford Dedong Wang
-* Substorm Observations
+### Substorm Observations
   - **Lead author:** Remya Bhanu
   - **Additional Authors:** Lauren Blum, Dedong Wang
 
@@ -118,11 +129,11 @@ Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/ful
 **Reviewer:** 
 
 **Topics to cover**
-* Theory	
+### Theory	
   - **Lead author:** Vania Jordanova
   - **Additional Authors:**
   - **Reviewer:** 
-* Observational Evidence	
+### Observational Evidence	
   - Cyclotron Resonance: Ions
     + **Lead author:** Yoshizumi Miyoshi
     + **Additional Authors:** Dedong Wang
@@ -139,7 +150,7 @@ Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/ful
     + **Lead author:** Dedong Wang 
     + **Additional Authors:**
     + **Reviewer:** 
-* Nonlinear Interactions with EMIC waves	
+### Nonlinear Interactions with EMIC waves	
   - Landau resonance and heating
     + **Lead author:** Mykhaylo Shumko
     + **Additional Authors:**
@@ -151,19 +162,19 @@ Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/ful
 
 ## Modeling
 **Topics to cover**
-* Modeling of the generation of EMIC waves
+### Modeling of the generation of EMIC waves
   - **Lead author:** Alexa Halford
   - **Additional Authors:** Vania Jordanova 
   - **Reviewer:** 
-* Modeling of the propagation
+### Modeling of the propagation
   - **Lead author:** Alexa Halford
   - **Additional Authors:** Vania Jordanova
   - **Reviewer:** 
-* Modeling of the effects of EMIC waves
+### Modeling of the effects of EMIC waves
   - **Lead author:** Yuri Sprits
   - **Additional Authors:**
   - **Reviewer:** 
-* Modeling using Machine learning - Data mining/modeling.
+### Modeling using Machine learning - Data mining/modeling.
   - **Lead author:** Claudia Medeiros
   - **Additional Authors:** Dedong Wang
   - **Reviewer:** 
@@ -178,15 +189,15 @@ Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/ful
 **Reviewer:** 
 
 **Topics to cover**
-* Plasma Depletion Layer
+### Plasma Depletion Layer
   - **Lead author:** Benjamin Grison 
   - **Additional Authors:** 
   - **Reviewer:** 
-* Solar Wind
+### Solar Wind
   - **Lead author:** Daniel Graham
   - **Additional Authors:** Philip Fernandes
   - **Reviewer:** 
-* Other Planetary Bodies
+### Other Planetary Bodies
   - **Lead author:** Daniel Graham 
   - **Additional Authors:** Remya Bhanu and Claudia Medeiros
   - **Reviewer:** 
@@ -202,22 +213,22 @@ Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/ful
 
 
 **Topics to cover**
-- Lab_EMIC
+### Lab_EMIC
   + **Lead author:** 
   + **Additional Authors:**
   + **Reviewer:** 
 
-- Radiation_remediation
+### Radiation_remediation
   + **Lead author:** Claudia Medeiros
   + **Additional Authors:**
   + **Reviewer:** 
   + **Topics to cover**
   
-- Future missions
+### Future missions
   + Upcoming missions
   + Need for new mission ideas 
   + Other planets [Mauk's paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
   
-- Future therory 
+### Future therory 
 
-- Future Modeling 
+### Future Modeling 
