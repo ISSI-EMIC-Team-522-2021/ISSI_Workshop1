@@ -8,6 +8,15 @@ The highest wave amplitudes seem to occur during non-storm conditions
 
 From Van Allen Probes era. 
 
+## Compare different Van Allen Probes Statistical studies. 
+
+How much do they agree or disagree. 
+
+## Compare different statistical studies from the different missions 
+
+THEMIS, CLUSTER, CREES, AMPTE, Arase, Van Allen Probes, Akabono, MMS, GEOS, GOES, etc. 
+
+
 ## Compare different EMIC wave identification methods 
 
 Perhaps see if we can compare different identification methods 
