@@ -38,7 +38,7 @@ How well do waves in different locations interact with relativitistic particles 
 
 
 ## September 13th - 14th 2015 
-Wide L-value range where EMIC waves were observed (~L=3 to ~L=10)
+Wide L-value range where EMIC waves were observed (~L=3 to ~L=10) [Yu](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JA023982)
 
 * Can we see poynting flux 
 * Can we see E-field 
