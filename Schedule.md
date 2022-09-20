@@ -26,9 +26,9 @@ Reminder of best practices/writing guide/etc
 * ~~2:00 - 2:30~~ ~ 3:30- 4:10  - Introduction - Remya Bhanu
 * ~~2:30 - 3:00~~ 4:10 - 4:30 - What are EMIC waves? - Alexa Halford
 
-~~3:00 – 3:30 Tea break/Networking/Brain break ~~
+~~3:00 – 3:30 Tea break/Networking/Brain break~~
 
-~~3:30 – 4:00 Second batch of topic updates ~~
+~~3:30 – 4:00 Second batch of topic updates~~
 
 * Observational Characteristics of EMIC waves
 	- Geomagnetic distribution 
@@ -36,7 +36,7 @@ Reminder of best practices/writing guide/etc
 Could mention ground - but perhaps to only mention the distribution and that they propagate through the ionosphere. 
 		
 
-~~4:30 – 5:00 quick look at updating week’s activities – set stage for rest of week’s work. ~~
+~~4:30 – 5:00 quick look at updating week’s activities – set stage for rest of week’s work.~~
 
 
 ## Tuesday: 
