@@ -84,7 +84,35 @@ Compare different statistical studies from the different missions
   - **Lead author:** Philip Fernandes
   - **Additional Authors:** Dedong Wang 
 
-Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020338) 
+
+#### What Phill would like is what are the important question that should be asked/addressed here. 
+
+* What do we mean when we say "cold plasma". 
+  - How do we measure cold plasma
+* Why do we care about the cold plasma. 1 sentence or so
+  - plays a role EMIC growth and resonance
+  - in modeling/ray tracing codes they need negative gradients. 
+* EMIC occurance/characteristics with respect to plasmasphere/pause/plumes (Cartoon vs observations) Maria Spansovoich (not correct spelling) and work with IMAGE with plumes and EMIC waves from the ground. 
+* EMIC vs non-EMIC cold plasma densitities 
+* impact from cold ions and ion compositions. 
+  - What assumptions do we make about the cold composition (Often use what came from warm)
+  - Meredith average composition from CRRES
+  - Average composition from other satellites 
+  - How does Ion composition impact EMIC waves? 
+    + What observation of cold ion composition is there? - Hydrogen, Helium, Oxygen, Nitrogen, other heavy ions. (Arase Studies - Alpha or Deuterium) 
+    + What makes this a difficult measurement? 
+* Can we use the EMIC wave observations to help identify the presence of different ions.
+* Multi- ionized plasma (e.g. O+++) [Yu](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094681)
+
+#### What references might help with those questions. 
+Refernece - 
+* Cold plasma observations with EMIC and without EMIC waves - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020338) 
+* Multi-ionized [Yu](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094681) 
+* Spasojevic, M.,M. F. Thomsen, P. J. Chi, and B. R. Sandel (2005), Afternoon
+subauroral proton precipitation resulting from ring current-plasmasphere
+interaction, in Inner Magnetosphere Interactions: New Perspectives from
+Imaging, Geophys. Monogr. Ser., vol. 159, edited by J. Burch, M. Schulz,
+and H. Spence, p. 85, AGU, Washington, D. C.
 
 ### Effects of warm ion composition on EMIC waves
   - **Lead author:** Philip Fernandes
@@ -96,6 +124,8 @@ Refernece - [Halford et al 2015](https://agupubs.onlinelibrary.wiley.com/doi/ful
 ### Ring current and EMIC waves
   - **Lead author:** Vania Jordanova 
   - **Additional Authors:** Philip Fernandes
+
+[Shumko Proton Aurora](https://www.frontiersin.org/articles/10.3389/fspas.2022.975123/full)
 
 ### EMIC wave relationship with other magnetospheric boundaries
   - **Lead author:** Lauren Blum
