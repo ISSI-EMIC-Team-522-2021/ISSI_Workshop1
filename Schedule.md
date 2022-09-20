@@ -54,21 +54,23 @@ Could mention ground - but perhaps to only mention the distribution and that the
 
 ~~5:00 – 5:30 Everyone back in room at ISSI to present one slide update on day’s work from each topic.~~
 
-6:00 ISSI Dinner for all at location (all other teams and ISSI Personal will be invited to attend) 
+~~6:00 ISSI Dinner for all at location (all other teams and ISSI Personal will be invited to attend) ~~
 
 ## Wednesday: 
 8:00 – Breakfast/networking/get to know your team
 
-9:00 – 9:15 Good morning ~~and identify topic teams to work on draft~~
+9:00 – 9:15 Good morning and determine new reasturant options.  ~~and identify topic teams to work on draft~~
 
-9:15 – 11:30 ~~Topic breakouts~~ Disscussions yet to be haved
-* Modeling of the effects of EMIC waves (Yuri should be able to join. 
+9:15 – 11:00 ~~11:30~~ ~~Topic breakouts~~ Disscussions yet to be haved
 
-11:30 – 1:00 Lunch
+11:00 - 1:00 Yuri will talk about events. 
 
-1:00 – 1:15 Good afternoon 
+1:00 - on Free time in town. 
+~~11:30 – 1:00 Lunch~~
 
-1:15 – 5:00 New Collaboration time! Open discussion – Identification of new studies needed based on missing information in topics. Possibly discussion around town. 
+~~1:00 – 1:15 Good afternoon ~~
+
+~~1:15 – 5:00 New Collaboration time! Open discussion – Identification of new studies needed based on missing information in topics. Possibly discussion around town.~~
 
 ## Thursday: 
 8:00 – Breakfast/networking/get to know your team
@@ -83,6 +85,9 @@ Could mention ground - but perhaps to only mention the distribution and that the
 
 1:15 – 5:00 Continuation of topics 
 EMIC wave relationship with other magnetospheric boundaries - Lauren can hopefully join. 
+
+6:00 ISSI Dinner for all at location (all other teams and ISSI Personal will be invited to attend) 
+
 
 ## Friday: 
 8:00 – Breakfast/networking/get to know your team
