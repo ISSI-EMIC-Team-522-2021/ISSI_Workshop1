@@ -75,9 +75,11 @@ Could mention ground - but perhaps to only mention the distribution and that the
 ## Thursday: 
 8:00 – Breakfast/networking/get to know your team
 
-9:00 – 9:15 Good morning and identify topic teams to work on draft
+9:00 – 9:15 Good morning ~~and identify topic teams to work on draft~~
 
-9:15 – 12:30 Topic breakouts 
+9:15 – 11:00 Maybe focus on writing ~~12:30 Topic breakouts~~ 
+
+11:00 - 12:30 If enough people discuss collaboration
 
 12:30 – 2:00 Lunch
 
