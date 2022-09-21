@@ -50,3 +50,9 @@ Wide L-value range where EMIC waves were observed (~L=3 to ~L=10) [Yu](https://a
 EMIC wave induced precipitation [Zhang](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JA022918)
 
 What does the phase space density look like here - and do we see a dip. 
+
+
+
+## Jan 17th 2013 storm
+
+BARREL saw a very brief period of potentially relativistic precipitation  - there was a long lasting dip - but still sporatic precipitation events as observed by BARREL. 
