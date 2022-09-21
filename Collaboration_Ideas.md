@@ -56,3 +56,14 @@ What does the phase space density look like here - and do we see a dip.
 ## Jan 17th 2013 storm
 
 BARREL saw a very brief period of potentially relativistic precipitation  - there was a long lasting dip - but still sporatic precipitation events as observed by BARREL. 
+
+
+
+## Ions 
+* Observations of Ion composition and charge of ions 
+  - charge of ionospheric oxygen outflow 
+  - charge of solar wind oxygen 
+  - Are they large enough compositions to matter? 
+  - How is this different at Jupiter and other locations. 
+
+[Mauk's paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
