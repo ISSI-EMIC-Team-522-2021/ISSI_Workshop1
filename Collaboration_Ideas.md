@@ -43,7 +43,7 @@ Wide L-value range where EMIC waves were observed (~L=3 to ~L=10) [Yu](https://a
 * Can we see poynting flux 
 * Can we see E-field 
 * Can we see composition
-* Why so quiet so what made this thing turn on? 
+* Why so quiet so what made this thing turn on? (Spatial spread in MLT seen during recovery phase of weak/moderate geomagnetic storms - [Blum](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL087009)
 
 ## Jan 25 - 26th 2013 
 
