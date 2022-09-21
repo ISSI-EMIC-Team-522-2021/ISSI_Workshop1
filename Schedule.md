@@ -61,7 +61,7 @@ Could mention ground - but perhaps to only mention the distribution and that the
 
 9:00 – 9:15 Good morning and determine new reasturant options.  ~~and identify topic teams to work on draft~~
 
-9:15 – 11:00 ~~11:30~~ ~~Topic breakouts~~ Disscussions of collaboration projects and writting. 
+9:15 – 11:00 ~~11:30~~ ~~Topic breakouts~~ Disscussions of collaboration projects and writing. 
 
 11:00 - 1:00 Yuri will talk about events. 
 
@@ -77,13 +77,13 @@ Could mention ground - but perhaps to only mention the distribution and that the
 
 9:00 – 9:15 Good morning and identify topic teams to work on draft
 
-9:15 – 11:30 Topic breakouts 
+9:15 – 12:30 Topic breakouts 
 
-11:30 – 1:00 Lunch
+12:30 – 2:00 Lunch
 
-1:00 – 1:15 Good afternoon 
+2:00 – 2:15 Good afternoon 
 
-1:15 – 5:00 Continuation of topics 
+2:15 – 5:00 Continuation of topics 
 EMIC wave relationship with other magnetospheric boundaries - Lauren can hopefully join. 
 
 6:00 ISSI Dinner for all at location (all other teams and ISSI Personal will be invited to attend) 
