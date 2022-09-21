@@ -44,3 +44,9 @@ Wide L-value range where EMIC waves were observed (~L=3 to ~L=10) [Yu](https://a
 * Can we see E-field 
 * Can we see composition
 * Why so quiet so what made this thing turn on? 
+
+## Jan 25 - 26th 2013 
+
+EMIC wave induced precipitation [Zhang](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JA022918)
+
+What does the phase space density look like here - and do we see a dip. 
