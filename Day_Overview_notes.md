@@ -33,6 +33,8 @@ Wants this to be catchy -
 
 [Lee's paper](https://www.frontiersin.org/articles/10.3389/fspas.2021.719715/full)
 
+[Shprits](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JA030214)
+
 
 ## What_are_EMIC_waves
 **Lead author:** Alexa 
