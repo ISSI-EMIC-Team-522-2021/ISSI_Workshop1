@@ -94,7 +94,9 @@ EMIC wave relationship with other magnetospheric boundaries - Lauren can hopeful
 ## Friday: 
 8:00 – Breakfast/networking/get to know your team
 
-9:00 – 10:20 Review what we’ve accomplished
+Writing time for everyone 
+
+~~9:00 – 10:20 Review what we’ve accomplished~~
 
 ~~10:20 – 10:30 Quick break~~
 
@@ -106,11 +108,11 @@ EMIC wave relationship with other magnetospheric boundaries - Lauren can hopeful
 
 ~~2:00 – 2:30 Tea break/Networking/Brain break~~
 
-2:30 – 3:30 Update action items going forward 
+~~2:30 – 3:30 Update action items going forward~~ 
 
-3:30 – 4:00 Discuss if still a review paper or needs to be a book/special collection etc. 
+~~3:30 – 4:00 Discuss if still a review paper or needs to be a book/special collection etc.~~ 
 
-6:00 –  Team Dinner
+~~6:00 –  Team Dinner~~
 
 ## Saturday: 
 Bon Voyage 
