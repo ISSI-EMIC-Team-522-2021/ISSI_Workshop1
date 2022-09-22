@@ -25,3 +25,13 @@
     + Bouncing wave packet? 
     + Backward wave oscillator. 
   - 
+## Need definitions 
+* Cold plasma, warm plasma, hot plasma 
+* Inner vs outer magnteosphere (is this consistent from day to night) 
+* Magmetosphere vs heliosphere 
+
+## Need to think about where to put the landau stuff 
+* Does this go into the non-linear section or? 
+* Does this go into the quasi-linear section? 
+* Or does this go into both? 
+* Does Landau get it's one large section with a Theory, observation and modeling with nonlinear and a quasi linear sections? 
