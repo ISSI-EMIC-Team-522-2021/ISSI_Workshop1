@@ -78,3 +78,7 @@ There are a lot of papers and cool events during this time.
 * [Dan's first find](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JA029072)
 * [Dan's second find with EMIC waves](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019JA027424)
 * [Dan's third find with SW impacts from this event](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016SW001455)
+
+
+## Mission concept ideas 
+maybe submit to Futures of space physics in Frontiers (if done soon). 
