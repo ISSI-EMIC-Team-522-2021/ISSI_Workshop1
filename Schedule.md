@@ -96,15 +96,15 @@ EMIC wave relationship with other magnetospheric boundaries - Lauren can hopeful
 
 9:00 – 10:20 Review what we’ve accomplished
 
-10:20 – 10:30 Quick break
+~~10:20 – 10:30 Quick break~~
 
-10:30 – 11:30 First batch of topic updates 
+~~10:30 – 11:30 First batch of topic updates~~
 
-11:30 – 1:00 Lunch 
+~~11:30 – 1:00 Lunch~~ 
 
-1:00 – 2:00 second batch of topic updates 
+~~1:00 – 2:00 second batch of topic updates~~ 
 
-2:00 – 2:30 Tea break/Networking/Brain break
+~~2:00 – 2:30 Tea break/Networking/Brain break~~
 
 2:30 – 3:30 Update action items going forward 
 
