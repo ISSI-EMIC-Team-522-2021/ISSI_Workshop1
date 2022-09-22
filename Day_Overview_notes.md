@@ -267,6 +267,8 @@ I will take references please
     + **Lead author:** Mykhaylo Shumko
     + **Additional Authors:**
     + **Reviewer:** 
+
+Could use help with reviewing - making sure there are sufficient references and makes sense. 
     
 MMS - studies might have some obseravational evidence for these. 
 
@@ -281,6 +283,9 @@ MMS - studies might have some obseravational evidence for these.
     + **Reviewer:** 
 
 ## Modeling
+
+Think about if these 
+
 **Topics to cover**
 ### Modeling of the generation of EMIC waves
   - **Lead author:** Alexa Halford
@@ -318,6 +323,11 @@ Maybe this is more local? Single or few field lines/bounce periods.
   - **Additional Authors:** Dedong Wang
   - **Reviewer:** 
 
+Difference between data mining and machine learning. 
+
+Data mining is all good at the moment. No help needed. 
+
+Maybe ask Andy if he can help with the machine learning. 
 
 ## Out_of_this_world
 
@@ -332,16 +342,41 @@ Maybe this is more local? Single or few field lines/bounce periods.
   - **Lead author:** Benjamin Grison 
   - **Additional Authors:** 
   - **Reviewer:** 
-### Solar Wind
+
+All done :) 
+
+Needs a review - need to find someone on that. 
+
+### Magnetosheath/ion forshock - added at ISSI 1
+   - **Lead author:** Dan can help with that. 
+Refer back to the depletion layer stuff as well? Have the Magnetosheath come before? 
+
+### Solar Wind/ heliosphere
   - **Lead author:** Daniel Graham
   - **Additional Authors:** Philip Fernandes
   - **Reviewer:** 
+  
+See notes in the overleaf document for what might be good to discuss. 
+No help needed at the moment. 
+
+Think about adding Solar corona? 
+
 ### Other Planetary Bodies
   - **Lead author:** Daniel Graham 
   - **Additional Authors:** Remya Bhanu and Claudia Medeiros
   - **Reviewer:** 
 
+Not much done yet. 
 
+So other planetary bodies
+* Jupiter Magnetosphere (Sadie Elliot may be able to help contribute) 
+  - think Io and other heavy ion sources
+* Saturn Magnetosphere - think 
+  - Think Encludus and other heavy ion sources 
+* Mars 
+  - Think solar wind/ionosphere/remnent magnetic field interactions 
+  - Tracy Esman can help with this hopefully. 
+* Comets - EMIC wave from Rosetta?  
 
 ## Future_for_EMIC_waves
 **Lead author:** 
@@ -350,12 +385,17 @@ Maybe this is more local? Single or few field lines/bounce periods.
 
 **Reviewer:** 
 
-
 **Topics to cover**
 ### Lab_EMIC
   + **Lead author:** 
   + **Additional Authors:**
   + **Reviewer:** 
+
+Maybe reach out to Jacob - How lab plasmas can help us understand the waves in space. 
+
+Claudia will look at Bazilian labs about this as well. 
+
+
 
 ### Radiation_remediation
   + **Lead author:** Claudia Medeiros
@@ -363,11 +403,42 @@ Maybe this is more local? Single or few field lines/bounce periods.
   + **Reviewer:** 
   + **Topics to cover**
   
-### Future missions
+Started writing with this - would like help. 
+
+Theory about this (PhD. thesis on inner raditation belt and how EMICs from Satellite produced waves could help remove radiation) 
+
+HAARP EMIC generation and observed loss. 
+
+  
+### Future observations and missions 
   + Upcoming missions
   + Need for new mission ideas 
   + Other planets [Mauk's paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
-  
+ 
+* Multispace craft - more than 4 needed in a cluster/MMS type mission 
+ 
+ 
 ### Future therory 
 
+* Theory to understand why EMIC waves often are seen to be linearly polarized and sometimes even right hand polarized - and then how this impacts interactions. 
+  - so could be mode conversion
+  - can also be propagation (makes sense) 
+  - Is this a problem of not understanding our observations? 
+  - Is this a problem of not calculating the polarization correctly? 
+
 ### Future Modeling 
+
+* Be able to have more of full kinetic in global models. 
+* How to better include waves in global models 
+  - better spatcial and temporal accurate inclusion of the waves (localized more in L and less limited in MLT - but include the odd dynamics in the waves wrt amplitude frequency and all- so when we have lots of wave packets with space between them as you go from one location to the next). 
+* Need better emperical wave models 
+  - Need big data base 
+  - need all avalible satellite data and they need to be intercalibrated 
+  - need an empirical model of the ion composition and temperature anisotropy. 
+  - Need empircal parameters of See if we can get views from more modelers on what is most important. 
+    + band width (Maybe third most important) 
+    + wave amplitude (Most important)
+    + frequency/ ratio to cyclotron frequency (Maybe second most important) 
+    + wave normal 
+* Self consistent modeling - Vanya will help to write this bit up. 
+* 
