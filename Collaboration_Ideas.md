@@ -67,3 +67,7 @@ BARREL saw a very brief period of potentially relativistic precipitation  - ther
   - How is this different at Jupiter and other locations. 
 
 [Mauk's paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
+
+
+## Temperature anisotropy along B. 
+This would be able to show where A* is maximum (Eg.  if Isotropic it's at the magnetic equator - what if it's peaked at 45deg? )
