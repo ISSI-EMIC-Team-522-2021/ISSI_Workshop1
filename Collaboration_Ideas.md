@@ -4,7 +4,11 @@
 
 The highest wave amplitudes seem to occur during non-storm conditions 
 
-## Why some quiet time substorms create EMIC waves and most do not 
+Contributors: Remya, Ben, Alexa, Lauren and her Students, Miyoshi can look at Arase for this!, Vanya  
+
+So this is maybe 2 studies one (or more) case studies with data and modeling groups and one statistical based. 
+
+### Why some quiet time substorms create EMIC waves and most do not 
 
 From Van Allen Probes era. 
 
@@ -12,16 +16,23 @@ From Van Allen Probes era.
 
 How much do they agree or disagree. 
 
+Contributors: Dedong Wang and .... Remya and Alexa happy to help
+
 ## Compare different statistical studies from the different missions 
 
 THEMIS, CLUSTER, CREES, AMPTE, Arase, Van Allen Probes, Akabono, MMS, GEOS, GOES, etc. 
 
+**This should be part of the observational review - not it's own seperate study** - make sure these are all included in the notes for the appropriate sections. 
 
 ## Compare different EMIC wave identification methods 
-
 Perhaps see if we can compare different identification methods 
+* for example Compare Andy, Remya, Claudia, and maybe Sigsbee (we need to ask her but they may already be doing this - so either hurry up or wait for their result).  
+* Lauren may have a student who could use and look at this as well. (could we have a bunch of students or non-students to look at a specific period and see how much their data bases differ) 
 
-Compare Andy, Remya, Claudia, and maybe Sigsbee (we need to ask her but they may already be doing this - so either hurry up or wait for their result). 
+Look at changing the thresholds in things like Bortink's model and how much that changes the false negatives and posititives and can ML help with identifying the right thresholds to use. Use the ML to identify false postitives  - so maybe we shouldn't use just one method use these two together. 
+
+Use identification of bite outs in the particle data to state when there is an EMICs. 
+* Do the bite outs last longer than the Wave? 
 
 ## Compare stats from Van Allen, Arase, and CRRES 
 
@@ -31,6 +42,9 @@ How much difference is because of orbit vs solar cycle.
 * Use same analysis type. (e.g. dial plots vs other etc. 
 * Should we use the same time period? ~18 months? 
 
+Maybe this starts with just the intercallibration between the Arase and Van Allen Probes. 
+* Olesky did this for whistler - were EMIC also observed. [Santolik 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JA029700)
+  - Santolik, O., Y. Miyoshi, I. Kolmasova, S. Matsuda, G. B. Hosodarsky, D. P. Hartley, Y. Kasahara, H. Kojima, A. Matsuoka, I. Shinohara, W. S. Kurth, and C. A. Kletzing, Inter-calibrated Measurements of Intense Whistlers by Arase and Van Allen Probes, J. Geophys. Res., 126, e2021JA029700, doi:10.1029/2021JA029700, 2021.
 
 ## Compare local/bounced averaged diffusion coeffients with EMIC location and plasma pause/plume conditions. 
 
