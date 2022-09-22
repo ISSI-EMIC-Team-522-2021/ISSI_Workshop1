@@ -45,6 +45,9 @@ How much difference is because of orbit vs solar cycle.
 Maybe this starts with just the intercallibration between the Arase and Van Allen Probes. 
 * Olesky did this for whistler - were EMIC also observed. [Santolik 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JA029700)
   - Santolik, O., Y. Miyoshi, I. Kolmasova, S. Matsuda, G. B. Hosodarsky, D. P. Hartley, Y. Kasahara, H. Kojima, A. Matsuoka, I. Shinohara, W. S. Kurth, and C. A. Kletzing, Inter-calibrated Measurements of Intense Whistlers by Arase and Van Allen Probes, J. Geophys. Res., 126, e2021JA029700, doi:10.1029/2021JA029700, 2021.
+ * EMIC waves along the same field line 
+  - Matsuda, S., Y. Miyoshi, Y. Kasahara,  L. Blum, C. Colpitts, K. Asamura, Y. Kasaba, A. Matsuoka, F. Tsuchiya, A. Kumamoto, M. Teramoto, S. Nakamura, M. Kitahara, I. Shinohara, G. Reeves, H. Spence, K. Shiokawa, T. Nagatsuma, S. Oyama, and I. R. Mann, Multipoint Measurement of Fine-Structured EMIC Waves by Arase, Van Allen Probe A and Ground Stations, Geophys. Res. Lett., 48, e2021GL096488, doi:10.1029/2021GL096488, 2021 [Matsuda 2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL096488)
+
 
 ## Compare local/bounced averaged diffusion coeffients with EMIC location and plasma pause/plume conditions. 
 
@@ -66,11 +69,9 @@ EMIC wave induced precipitation [Zhang](https://agupubs.onlinelibrary.wiley.com/
 What does the phase space density look like here - and do we see a dip. 
 
 
-
 ## Jan 17th 2013 storm
 
 BARREL saw a very brief period of potentially relativistic precipitation  - there was a long lasting dip - but still sporatic precipitation events as observed by BARREL. 
-
 
 
 ## Ions 
@@ -85,6 +86,7 @@ BARREL saw a very brief period of potentially relativistic precipitation  - ther
 
 ## Temperature anisotropy along B. 
 This would be able to show where A* is maximum (Eg.  if Isotropic it's at the magnetic equator - what if it's peaked at 45deg? )
+
 
 ## Dec 12 2015 - Jan 12 2016 storms 
 There are a lot of papers and cool events during this time. 
