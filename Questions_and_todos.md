@@ -29,6 +29,7 @@
 * Cold plasma, warm plasma, hot plasma 
 * Inner vs outer magnteosphere (is this consistent from day to night) 
 * Magmetosphere vs heliosphere 
+* EMIC, Pc 1-2, and ion cyclotron wave (ULF/ELF)
 
 ## Need to think about where to put the landau stuff 
 * Does this go into the non-linear section or? 
