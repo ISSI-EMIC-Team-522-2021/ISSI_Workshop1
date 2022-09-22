@@ -71,3 +71,10 @@ BARREL saw a very brief period of potentially relativistic precipitation  - ther
 
 ## Temperature anisotropy along B. 
 This would be able to show where A* is maximum (Eg.  if Isotropic it's at the magnetic equator - what if it's peaked at 45deg? )
+
+## Dec 12 2015 - Jan 12 2016 storms 
+There are a lot of papers and cool events during this time. 
+[Paper Remya shared which started the discusion](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JA028027)
+[Dan's first find](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JA029072)
+[Dan's second find with EMIC waves](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019JA027424)
+[Dan's third find with SW impacts from this event](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016SW001455)
