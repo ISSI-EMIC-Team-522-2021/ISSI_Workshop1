@@ -286,14 +286,33 @@ MMS - studies might have some obseravational evidence for these.
   - **Lead author:** Alexa Halford
   - **Additional Authors:** Vania Jordanova 
   - **Reviewer:** 
+ 
+I would gladly take references. 
+
 ### Modeling of the propagation
   - **Lead author:** Alexa Halford
   - **Additional Authors:** Vania Jordanova
   - **Reviewer:** 
+  
+I would gladly take references. 
+
 ### Modeling of the effects of EMIC waves
   - **Lead author:** Yuri Sprits
-  - **Additional Authors:**
+  - **Additional Authors:** Dedong Wang
   - **Reviewer:** 
+
+Maybe this is more global? 
+Quasi-linear approach in Overleaf now. 
+
+Effect of EMIC waves in different codes and how they are treated. 
+
+Maybe this is more local? Single or few field lines/bounce periods. 
+* Doesn't mention non-linear so might be a place where someone can help. 
+* Think about the rising tone and falling tone
+* Think about microbusts 
+* Think about test particle approach. 
+
+
 ### Modeling using Machine learning - Data mining/modeling.
   - **Lead author:** Claudia Medeiros
   - **Additional Authors:** Dedong Wang
