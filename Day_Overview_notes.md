@@ -16,8 +16,8 @@ Wants this to be catchy -
 
 * Why do we want to study these waves
   - Need to better understand their relative impact
-    + e.g. their impact on atmospheric chemistry 
-    + Potential for pockets of increase radiation at aviation altitudes etc. 
+    + e.g. their impact on atmospheric chemistry  (Remya will be happy to accept any REFERENCES)  
+    + Potential for pockets of increase radiation at aviation altitudes etc. (Willing to accept REFERENCES) 
   - include them better in models
     + Need to include non-linear effects to get better model results
   - see them around other planetary bodies
