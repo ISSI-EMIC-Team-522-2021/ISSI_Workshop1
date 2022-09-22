@@ -361,6 +361,10 @@ No help needed at the moment.
 
 Think about adding Solar corona? 
 
+Include Solar orbiter Ion cyclotron waves. Are the fast magnetosonic low frequency whistler or ion cyclotron? 
+
+Issue with getting E-field from these missions. 
+
 ### Other Planetary Bodies
   - **Lead author:** Daniel Graham 
   - **Additional Authors:** Remya Bhanu and Claudia Medeiros
@@ -414,10 +418,44 @@ HAARP EMIC generation and observed loss.
   + Upcoming missions
   + Need for new mission ideas 
   + Other planets [Mauk's paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020392)
+
+Many mission ideas talk about the particles - and here we really want to stress the importance of the waves themselves. And that the a wave focused mission might provide a better understanding of the particles (with only particles you don't have unique solutions for the drivers as it's all integrated and could be multiple different combination of effects creating the dynamics we see). 
+
+* Include upcoming missions 
+  - GTO might or at least be a pathfinder for potential future missions. 
+  - SNIPE 
+  - JUICE ? There is a mag so hopefully could get EMIC at Jupiter 
+  - GDC ? I don't think so but we should check. 
+  - Europa Clipper
+  - ESCAPADE
+  
+
+* New instrument development 
+  - smaller size particle detectors 
+  - smaller sized mags and E-field detectors 
+  - better downliking get ALLLLLLL the data 
+  - or do we have new tech for onboard processes on board and then send down just bits. currently 256Hz sampling rate full wave form data (like Arase using onboard AI - remove noise and then finds the time when there are EMIC waves.) 
+
+* Multi spacecraft - more than 4 needed in a cluster/MMS type mission 
+  - need this to get away from the plane wave assumption to see the different modes of the EMIC Waves. 
+* More multi spacecraft - but spread out across MLT and L to get spatial and temperal scale sizes of these active regions 
+* More multi spacecraft along a field line to see the propagation effects and how the wave changes with respect to latitude 
+   - How does this impact mode convestion and look at how we would study this. 
+   - as we get into the ionosphere look at into the ducting. 
+* How can cubeSats help with this! Better coverage through smaller satellites (so cheaper individually) but providing us much more coverage of the waves. 
+  - Think about outside of LEO 
+  - Think about mag vs E-field issues 
+  - Think about particles included with the wave measurements. 
+    + Think about what particles - 
+    + ions generating / amplifying the waves - and include composition 
+    + electrons with what's being precipitated? 
  
-* Multispace craft - more than 4 needed in a cluster/MMS type mission 
- 
- 
+* Other planets and places 
+  - even more issues with downlinking data because having to use DSN. 
+  -  Issues with getting low frequency DC electric fields so a need for a heliospheric waves mission. 
+  -  Need more wave instruments on planetary missions. 
+
+
 ### Future therory 
 
 * Theory to understand why EMIC waves often are seen to be linearly polarized and sometimes even right hand polarized - and then how this impacts interactions. 
@@ -425,6 +463,8 @@ HAARP EMIC generation and observed loss.
   - can also be propagation (makes sense) 
   - Is this a problem of not understanding our observations? 
   - Is this a problem of not calculating the polarization correctly? 
+* Improve quasi-linear assumption within the models. - help to improve interactions near 90 deg. (resonance broadening).   
+* Have we gone as far as we can in linear/tracktable theories or do we need more improvements? 
 
 ### Future Modeling 
 
@@ -441,4 +481,6 @@ HAARP EMIC generation and observed loss.
     + frequency/ ratio to cyclotron frequency (Maybe second most important) 
     + wave normal 
 * Self consistent modeling - Vanya will help to write this bit up. 
-* 
+* With modeling for wave growth include muti-ionized ion composition -> need to improve our understanding of the importance of these populations and their relative composition. 
+* Can Machine learning help with the emperical wave modeling? 
+  - Can this be used to create a model of when/where/how strong the waves are. 
