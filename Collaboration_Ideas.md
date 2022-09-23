@@ -10,7 +10,7 @@ So this is maybe 2 studies one (or more) case studies with data and modeling gro
 
 ### Why some quiet time substorms create EMIC waves and most do not 
 
-From Van Allen Probes era. 
+From Van Allen Probes era - follow on of the above study.
 
 ## Compare different Van Allen Probes Statistical studies. 
 
