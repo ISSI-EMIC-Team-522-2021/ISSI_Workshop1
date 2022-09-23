@@ -4,7 +4,7 @@
 
 The highest wave amplitudes seem to occur during non-storm conditions 
 
-Contributors: Remya, Ben, Alexa, Lauren and her Students, Miyoshi can look at Arase for this!, Vanya  
+Contributors: Remya, Ben, Alexa, Lauren and her Students, Miyoshi can look at Arase for this!, Vanya  (Ben can provide with location w.r.t. magnetopause)
 
 So this is maybe 2 studies one (or more) case studies with data and modeling groups and one statistical based. 
 
