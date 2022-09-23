@@ -1,5 +1,11 @@
 # Meeting Agenda
 
+Time zones for meeting planning 
+
+**Proposed weekly timeslot is Thursday's at 13:00 or 14:00 Bern time**
+
+<img src="https://github.com/ISSI-EMIC-Team-522-2021/ISSI_Workshop1/blob/0196b13784ba221f843194e37894b03e67e067d5/Screen%20Shot%202022-09-23%20at%2012.43.02%20PM.png" width="460">
+
 ## Sunday: 
 ~~Ice Breaker/Dinner/Introductions for all at location (all other teams and ISSI Personal are welcome to attend)  This will be at a location TBD in town.~~
 
