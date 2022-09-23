@@ -95,6 +95,9 @@ There are a lot of papers and cool events during this time.
 * [Dan's second find with EMIC waves](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019JA027424)
 * [Dan's third find with SW impacts from this event](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016SW001455)
 
+## Events suggested by Yuri
+Feel free to add more events or add more data/ models into the following google doc
+https://docs.google.com/document/d/1J8Db8r43_rfWqFqjs9575JpxhD0D5sRp/edit?usp=sharing&ouid=100838323852393295545&rtpof=true&sd=true
 
 ## Mission concept ideas 
 maybe submit to Futures of space physics in Frontiers (if done soon). 
